@@ -1,0 +1,1 @@
+wall collide self.location57.54716981132076:85.0
